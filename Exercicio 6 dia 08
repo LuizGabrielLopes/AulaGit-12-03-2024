@@ -1,0 +1,7 @@
+let a = 18;
+
+if(a >= 18){
+    console.log("Voce e maior de idade");
+}else{
+    console.log("Voce e menor de idade");
+}
