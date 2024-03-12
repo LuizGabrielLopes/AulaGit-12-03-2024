@@ -1,4 +1,4 @@
-let t = 120;
+let t = 5;
 
 let l = 10;
 
