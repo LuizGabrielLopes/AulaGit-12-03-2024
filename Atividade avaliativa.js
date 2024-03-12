@@ -1,6 +1,6 @@
 let t = 10;
 
-let l = 50;
+let l = 20;
 
 let c = 1;
 
