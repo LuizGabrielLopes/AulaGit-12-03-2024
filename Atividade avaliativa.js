@@ -2,7 +2,7 @@ let t = 1230;
 
 let l = 10;
 
-let c = 1;
+let c = 0;
 
 if (t <= 0 || 1 <= 0) {
     console.log("Não é possivel realizar essa conta");
